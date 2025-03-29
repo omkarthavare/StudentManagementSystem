@@ -18,6 +18,7 @@ public class StudentTest {
 			System.out.println("menues:\n 1.Add Student \n 2.Display All Student Records \n 3.Search Student by Id \n 4.search student by name \n 5.search student whose marks is greater than 70 \n 6search student whose marks is less than 70\n");
 			Scanner sc=new Scanner(System.in);
 			int choices=sc.nextInt();
+			//omkar thavare
 			
 			switch(choices) {
 			case 1:{
